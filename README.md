@@ -1,4 +1,4 @@
-# 2d-cut-optimization-input
+# 2d cut optimization example (input for cut-api.xom)
 Input example to be used with [cut-api.com](cut-api.com) API
 
 ```json
